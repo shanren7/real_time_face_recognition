@@ -3,7 +3,9 @@ This is a real time face detection and recognition project base  on opencv/tenso
 
 ##Inspiration
 The code was inspired by several projects as follows:
+
 1.[OpenFace](https://github.com/cmusatyalab/openface). The main idea was inspired by openface. However, I prefer python and tensorflow,so there comes this project.
+
 2.[davidsandberg/facenet](https://github.com/davidsandberg/facenet).
     facenet.py was taken from https://github.com/davidsandberg/facenet/blob/master/facenet/src/facenet.py
     nn4.py was taken from https://github.com/davidsandberg/facenet/blob/master/src/models/nn4.py
@@ -18,6 +20,7 @@ The code was inspired by several projects as follows:
 
 ##Running
 1.You should down load pre-trained facenet from https://github.com/yobibyte/yobiface/blob/master/model/model-20160506.ckpt-500000 and put in model_check_point folder.
+
 2.Run [real time face detection and recognition.ipynb](https://github.com/shanren7/real_time_face_recognition/blob/master/real%20time%20face%20detection%20and%20%20recognition.ipynb) with jupyter notebook
 
 ##Results
