@@ -1,7 +1,7 @@
 # real_time_face_detection and recognition
 This is a real time face detection and recognition project base  on opencv/tensorflow/mtcnn/facenet. An chinese version of description is [here](https://zhuanlan.zhihu.com/p/25025596) .
 
-##Structure
+##Workflow
 ![](https://github.com/shanren7/real_time_face_recognition/blob/master/images/real%20time%20face%20detection%20and%20recognition.jpg)
 
 ##Inspiration
