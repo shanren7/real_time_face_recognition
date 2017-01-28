@@ -1,6 +1,9 @@
 # real_time_face_detection and recognition
 This is a real time face detection and recognition project base  on opencv/tensorflow/mtcnn/facenet. An chinese version of description is [here](https://zhuanlan.zhihu.com/p/25025596) .
 
+##Structure
+![](https://github.com/shanren7/real_time_face_recognition/blob/master/images/real%20time%20face%20detection%20and%20recognition.jpg)
+
 ##Inspiration
 The code was inspired by several projects as follows:
 
@@ -22,9 +25,9 @@ The code was inspired by several projects as follows:
 3.jupyter notebook for running .ipynb examples
 
 ##Running
-1.You should down load pre-trained facenet from https://github.com/yobibyte/yobiface/blob/master/model/model-20160506.ckpt-500000 and put in model_check_point folder.
+1.Downloading pre-trained facenet from https://github.com/yobibyte/yobiface/blob/master/model/model-20160506.ckpt-500000 and putting in model_check_point folder.
 
-2.Run [real time face detection and recognition.ipynb](https://github.com/shanren7/real_time_face_recognition/blob/master/real%20time%20face%20detection%20and%20%20recognition.ipynb) with jupyter notebook
+2.Running [real time face detection and recognition.ipynb](https://github.com/shanren7/real_time_face_recognition/blob/master/real%20time%20face%20detection%20and%20%20recognition.ipynb) with jupyter notebook
 
 ##Results
 ![](https://github.com/shanren7/real_time_face_recognition/blob/master/images/video_guai_20.jpg)
