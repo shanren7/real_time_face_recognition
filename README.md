@@ -21,6 +21,5 @@ The code was inspired by several projects as follows:
 2.Run [real time face detection and recognition.ipynb](https://github.com/shanren7/real_time_face_recognition/blob/master/real%20time%20face%20detection%20and%20%20recognition.ipynb) with jupyter notebook
 
 ##Results
-Results may look like these:
 ![](https://github.com/shanren7/real_time_face_recognition/blob/master/images/video_guai_20.jpg)
 ![](https://github.com/shanren7/real_time_face_recognition/blob/master/images/video_guai_2192.jpg)
